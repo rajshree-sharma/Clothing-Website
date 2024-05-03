@@ -1,0 +1,18 @@
+body {
+    margin: none;
+    padding: none;
+ }
+
+ .navbar{
+    position: sticky;
+ }
+ 
+ #contact-us{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(56, 55, 55);
+  align-items: center;
+ }
+ 
+ 
+ 
